@@ -1,5 +1,5 @@
 # Azure DevOps CICD Pipeline -
-![image](https://github.com/deekshameshram777/Terraform-learnings/assets/156531844/4363b78b-41bd-4032-8ea8-7a9844143b06)
+![image](https://github.com/deekshameshram777/Terraform-learnings/assets/156531844/9f73bf18-8679-4d84-ba9e-304232a76418)
 
 
 # YAML Code for Build pipeline -
