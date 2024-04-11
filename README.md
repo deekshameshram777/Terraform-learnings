@@ -63,8 +63,10 @@ stages:
 
 # Release pipeline -
 
-![image](https://github.com/deekshameshram777/Terraform-learnings/assets/156531844/710c4422-e4d6-4245-bb66-3198e5c4707b)
+![image](https://github.com/deekshameshram777/Terraform-learnings/assets/156531844/8686f3c4-3a90-40b9-aae7-1c7082d8a810)
 
 
-![image](https://github.com/deekshameshram777/Terraform-learnings/assets/156531844/d13fbb48-5ea1-422a-bf5b-935ec8a570d5)
+
+![image](https://github.com/deekshameshram777/Terraform-learnings/assets/156531844/18cc5546-8650-4265-846f-8ea17f9f94a6)
+
 
