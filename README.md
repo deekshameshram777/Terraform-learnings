@@ -3,7 +3,7 @@ Azure DevOps CICD Pipeline -
 
 
 YAML Code for Build pipeline -
-
+'''
 trigger:
 - main
 stages:
@@ -58,7 +58,7 @@ stages:
             PathtoPublish: '$(Build.ArtifactStagingDirectory)'
             ArtifactName: 'drop'
             publishLocation: 'Container'
-
+'''
 Release pipeline -
 
 ![image](https://github.com/deekshameshram777/Terraform-learnings/assets/156531844/710c4422-e4d6-4245-bb66-3198e5c4707b)
