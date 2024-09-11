@@ -1,3 +1,3 @@
 prefix = "dev"
-domain = xyz
+domain = "xyz"
 location = "North Europe"
